@@ -148,7 +148,6 @@ Bạn thấy tính năng gì của trang web bạn từng dùng chưa tốt?
 <img width="945" height="480" alt="image" src="<img width="945" height="398" alt="image" src="https://github.com/user-attachments/assets/0343aca8-8997-4c6e-81da-b70820bc9103" />
 " />
 
-alt="Biểu đồ câu trả lời của biểu mẫu. Tên câu hỏi: Người tham gia khảo sát?. Số lượng câu trả lời: 100 câu trả lời." />
 
 Khách hàng là những đối tượng đang quan tâm đến vấn đề nhiều nhất
 
